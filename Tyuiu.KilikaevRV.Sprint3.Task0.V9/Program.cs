@@ -32,9 +32,9 @@ namespace Tyuiu.KilikaevRV.Sprint3.Task0.V9
             Console.WriteLine("***************************************************************************");
 
             DataService ds = new DataService();
-            double result = ds.GetSumSeries(x);
+           
 
-            Console.WriteLine($"Сумма ряда S = {result}");
+           
 
             Console.ReadKey();
         }

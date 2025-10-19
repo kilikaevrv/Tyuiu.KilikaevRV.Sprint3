@@ -16,4 +16,4 @@ using global::Tyuiu.KilikaevRV.Sprint3.Task0.V9.Lib;
             Assert.AreEqual(wait, res);
         }
     }
-}
+

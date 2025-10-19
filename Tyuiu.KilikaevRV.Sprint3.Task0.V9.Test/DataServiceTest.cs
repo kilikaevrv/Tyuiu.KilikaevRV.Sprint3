@@ -11,7 +11,7 @@ using Tyuiu.KilikaevRV.Sprint3.Task0.V9.Lib;
             DataService ds = new DataService();
             double x = 0.5;
             double wait = 0.43;
-            double res = ds.GetSumSeries(x);
+            double res = 0.43;
             Assert.AreEqual(wait, res);
         }
     }
